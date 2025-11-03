@@ -1,0 +1,6 @@
+# Basic Python requirements for BTC Studies project
+# Add your dependencies here as you develop the project
+
+# For future Bitcoin functionality (commented out for now)
+# requests>=2.31.0
+# python-bitcoinlib>=0.12.0
